@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-AppFlowy is the AI workspace where you achieve more without losing control of your data
+AppFlowy — это рабочее пространство искусственного интеллекта, где вы достигаете большего, не теряя контроля над своими данными.
 </p>
 
 <p align="center">
